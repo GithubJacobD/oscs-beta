@@ -271,7 +271,6 @@ function updateClock() {
   const date = now.toLocaleDateString([], { weekday: "short", month: "short", day: "numeric" });
   document.querySelector("#clock-time").textContent = time;
   document.querySelector("#clock-date").textContent = date;
-  document.querySelector("#stat-time").textContent = time;
 }
 
 function setRoute(route) {
