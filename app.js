@@ -221,6 +221,26 @@ const escapeHtml = (value) => String(value ?? "").replace(/[&<>"']/g, (char) => 
   "'": "&#39;",
 }[char]));
 const memberSlug = (member) => member.name.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
+const jsonEndpointsFirst = location.hostname.endsWith("github.io");
+const apiCandidates = (name, query = "") => {
+  const json = `api/${name}.json`;
+  const php = `api/${name}.php${query}`;
+  return jsonEndpointsFirst ? [json, php] : [php, json];
+};
+
+async function fetchApiJson(name, query = "") {
+  for (const url of apiCandidates(name, query)) {
+    try {
+      const response = await fetch(url, { cache: "no-store" });
+      const contentType = response.headers.get("content-type") || "";
+      if (!response.ok || !contentType.includes("application/json")) continue;
+      return await response.json();
+    } catch (error) {
+      // Try the next endpoint; GitHub Pages serves generated JSON while PHP hosts execute scripts.
+    }
+  }
+  return null;
+}
 
 function renderSocialLinks(member) {
   const links = Object.entries(member.socials || {});
@@ -409,11 +429,8 @@ function renderSpotifyTracks(tracksFromApi) {
 
 async function hydrateSpotifyApi() {
   try {
-    const response = await fetch("api/spotify.php?action=tracks", { cache: "no-store" });
-    const contentType = response.headers.get("content-type") || "";
-    if (!response.ok || !contentType.includes("application/json")) return;
-
-    const data = await response.json();
+    const data = await fetchApiJson("spotify", "?action=tracks");
+    if (!data) return;
     if (!Array.isArray(data.tracks)) return;
     renderSpotifyTracks(data.tracks);
   } catch (error) {
@@ -507,11 +524,8 @@ function renderAwards() {
 
 async function hydrateTwitchApi() {
   try {
-    const response = await fetch("api/twitch.php?action=summary", { cache: "no-store" });
-    const contentType = response.headers.get("content-type") || "";
-    if (!response.ok || !contentType.includes("application/json")) return;
-
-    const data = await response.json();
+    const data = await fetchApiJson("twitch", "?action=summary");
+    if (!data) return;
     if (!Array.isArray(data.members)) return;
 
     const apiByLogin = new Map(data.members.map((member) => [String(member.login || "").toLowerCase(), member]));
@@ -625,11 +639,8 @@ function renderYoutubeVideos(videosFromApi) {
 
 async function hydrateYoutubeApi() {
   try {
-    const response = await fetch("api/youtube.php?action=latest&limit=12", { cache: "no-store" });
-    const contentType = response.headers.get("content-type") || "";
-    if (!response.ok || !contentType.includes("application/json")) return;
-
-    const data = await response.json();
+    const data = await fetchApiJson("youtube", "?action=latest&limit=12");
+    if (!data) return;
     if (!Array.isArray(data.videos)) return;
     renderYoutubeVideos(data.videos);
   } catch (error) {
