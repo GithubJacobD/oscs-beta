@@ -1,7 +1,15 @@
 {
   "source": "youtube-rss",
-  "generatedAt": "2026-05-31T03:35:27.922Z",
+  "generatedAt": "2026-05-31T03:36:56.805Z",
   "videos": [
+    {
+      "videoId": "d02v_StUAhE",
+      "title": "Bye Sunny..",
+      "channelTitle": "Yugi2x Live",
+      "publishedAt": "2026-05-31T03:30:38+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/d02v_StUAhE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=d02v_StUAhE"
+    },
     {
       "videoId": "8S8yqu83Yi8",
       "title": "\"They were sla...\" 🤐🥀",
@@ -89,14 +97,6 @@
       "publishedAt": "2026-05-29T00:34:15+00:00",
       "thumbnail": "https://i1.ytimg.com/vi/LUx2iqdE3vQ/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=LUx2iqdE3vQ"
-    },
-    {
-      "videoId": "ZLZYizDBRxM",
-      "title": "Yugi & Sakura Culture Swap Mukbang! (Korean LARP)",
-      "channelTitle": "Yugi2x Live",
-      "publishedAt": "2026-05-28T04:20:39+00:00",
-      "thumbnail": "https://i3.ytimg.com/vi/ZLZYizDBRxM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ZLZYizDBRxM"
     }
   ],
   "notes": []
