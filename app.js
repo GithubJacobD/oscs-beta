@@ -282,8 +282,19 @@ function setRoute(route) {
   }
   document.querySelectorAll(".page").forEach((element) => element.classList.toggle("active", element.dataset.page === page));
   document.querySelectorAll("[data-route]").forEach((link) => link.classList.toggle("active", link.dataset.route === (page === "member-detail" ? "members" : page)));
-  document.querySelector("#mobile-nav").classList.remove("open");
+  closeMobileNav();
   window.scrollTo({ top: 0, behavior: "smooth" });
+}
+
+function setMobileNav(open) {
+  document.querySelector("#mobile-nav").classList.toggle("open", open);
+  document.querySelector("#mobile-menu-button").classList.toggle("open", open);
+  document.querySelector("#mobile-menu-button").setAttribute("aria-expanded", String(open));
+  document.body.classList.toggle("mobile-nav-open", open);
+}
+
+function closeMobileNav() {
+  setMobileNav(false);
 }
 
 function renderLiveNow() {
@@ -654,8 +665,17 @@ function wireEvents() {
     localStorage.setItem("oscs-theme", document.body.classList.contains("light") ? "light" : "dark");
   });
 
-  document.querySelector("#mobile-menu-button").addEventListener("click", () => {
-    document.querySelector("#mobile-nav").classList.toggle("open");
+  document.querySelector("#mobile-menu-button").addEventListener("click", (event) => {
+    event.stopPropagation();
+    setMobileNav(!document.querySelector("#mobile-nav").classList.contains("open"));
+  });
+
+  document.querySelector("#mobile-nav").addEventListener("click", (event) => {
+    if (event.target.closest("a")) closeMobileNav();
+  });
+
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape") closeMobileNav();
   });
 
   window.addEventListener("hashchange", () => setRoute(location.hash.slice(1)));

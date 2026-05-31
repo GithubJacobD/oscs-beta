@@ -223,6 +223,28 @@ body.light .moon {
   height: 2px;
   border-radius: 999px;
   background: var(--text);
+  transition: opacity var(--ease), transform var(--ease);
+}
+
+.mobile-menu-button.open span:first-child {
+  transform: translateY(2px) rotate(45deg);
+}
+
+.mobile-menu-button.open span:last-child {
+  transform: translateY(-2px) rotate(-45deg);
+}
+
+body.mobile-nav-open {
+  overflow: hidden;
+}
+
+body.mobile-nav-open::before {
+  position: fixed;
+  inset: 0;
+  z-index: 24;
+  background: rgba(0, 0, 0, 0.56);
+  backdrop-filter: blur(6px);
+  content: "";
 }
 
 .mobile-nav {
@@ -876,6 +898,47 @@ select {
 
   .mobile-menu-button {
     display: grid;
+    position: relative;
+    z-index: 31;
+  }
+
+  .mobile-nav {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 30;
+    display: flex;
+    width: min(360px, calc(100vw - 34px));
+    margin: 0;
+    padding: 92px 18px 18px;
+    flex-direction: column;
+    gap: 10px;
+    border-width: 0 0 0 1px;
+    border-radius: 0;
+    background: rgba(13, 13, 13, 0.92);
+    box-shadow: -28px 0 80px rgba(0, 0, 0, 0.42);
+    transform: translateX(110%);
+    transition: transform var(--ease);
+  }
+
+  body.light .mobile-nav {
+    background: rgba(255, 255, 255, 0.94);
+  }
+
+  .mobile-nav.open {
+    display: flex;
+    grid-template-columns: none;
+    transform: translateX(0);
+  }
+
+  .mobile-nav a {
+    display: flex;
+    min-height: 50px;
+    align-items: center;
+    justify-content: flex-start;
+    border-radius: 14px;
+    text-align: left;
   }
 
   .hero,
