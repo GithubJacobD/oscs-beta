@@ -706,7 +706,6 @@ function init() {
   setInterval(updateClock, 1000);
   document.querySelector("#stat-members").textContent = members.length;
   document.querySelector("#stat-live").textContent = members.filter((member) => member.live).length;
-  document.querySelector("#stat-followers").textContent = formatNumber(members.reduce((sum, member) => sum + member.followers, 0));
   document.querySelector("#stat-viewers").textContent = formatNumber(members.reduce((sum, member) => sum + member.viewers, 0));
   renderLiveNow();
   renderNewestVideo();
