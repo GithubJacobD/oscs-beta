@@ -221,6 +221,7 @@ const escapeHtml = (value) => String(value ?? "").replace(/[&<>"']/g, (char) => 
   "'": "&#39;",
 }[char]));
 const memberSlug = (member) => member.name.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
+const twitchStreamUrl = (member) => member.socials?.twitch || `https://twitch.tv/${encodeURIComponent(member.login || member.twitch || "")}`;
 const jsonEndpointsFirst = location.hostname.endsWith("github.io");
 const apiCandidates = (name, query = "") => {
   const json = `api/${name}.json`;
@@ -300,7 +301,7 @@ function closeMobileNav() {
 function renderLiveNow() {
   const container = document.querySelector("#live-now");
   container.innerHTML = members.filter((member) => member.live).map((member, index) => `
-    <article class="stream-card">
+    <a class="stream-card" href="${escapeHtml(twitchStreamUrl(member))}" target="_blank" rel="noopener" aria-label="Watch ${escapeHtml(member.name)} on Twitch">
       <div class="stream-thumb">
         <img loading="lazy" src="${pickImage(index)}" alt="${member.name} live stream thumbnail">
       </div>
@@ -318,7 +319,7 @@ function renderLiveNow() {
           <span class="pill">${formatNumber(member.viewers)} viewers</span>
         </div>
       </div>
-    </article>
+    </a>
   `).join("");
 }
 
@@ -561,7 +562,7 @@ async function hydrateTwitchApi() {
     const liveMembers = mergedMembers.filter((member) => member.live);
     if (liveMembers.length) {
       document.querySelector("#live-now").innerHTML = liveMembers.map((member, index) => `
-        <article class="stream-card">
+        <a class="stream-card" href="${escapeHtml(twitchStreamUrl(member))}" target="_blank" rel="noopener" aria-label="Watch ${escapeHtml(member.name)} on Twitch">
           <div class="stream-thumb">
             <img loading="lazy" src="${escapeHtml(member.thumbnailUrl || pickImage(index))}" alt="${escapeHtml(member.name)} live stream thumbnail">
           </div>
@@ -580,7 +581,7 @@ async function hydrateTwitchApi() {
               ${member.gameName ? `<span class="pill">${escapeHtml(member.gameName)}</span>` : ""}
             </div>
           </div>
-        </article>
+        </a>
       `).join("");
     }
 
