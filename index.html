@@ -1,0 +1,219 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="OSCS Central is a cinematic creator hub for live streams, videos, clips, music, members, and awards.">
+    <title>OSCS Central</title>
+    <link rel="icon" type="image/png" href="assets/logos/oscs-alt-original.png">
+    <link rel="apple-touch-icon" href="assets/logos/oscs-alt-original.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <div class="site-shell">
+      <header class="site-header" id="top">
+        <a class="brand" href="#home" aria-label="OSCS Central home">
+          <img class="brand-logo" src="assets/logos/oscs-alt-original.png" alt="OSCS">
+          <span>
+            <strong>OSCS</strong>
+            <small>Central</small>
+          </span>
+        </a>
+
+        <nav class="desktop-nav" aria-label="Main navigation">
+          <a href="#home" data-route="home">Home</a>
+          <a href="#videos" data-route="videos">Videos</a>
+          <a href="#clips" data-route="clips">Clips</a>
+          <a href="#music" data-route="music">Music</a>
+          <a href="#members" data-route="members">Members</a>
+          <a href="#awards" data-route="awards">Awards</a>
+        </nav>
+
+        <div class="header-actions">
+          <div class="header-clock" aria-live="polite">
+            <span id="clock-time">--:--</span>
+            <small id="clock-date">Loading</small>
+          </div>
+          <button class="icon-button" id="theme-toggle" type="button" aria-label="Toggle theme">
+            <span class="moon" aria-hidden="true"></span>
+          </button>
+          <button class="mobile-menu-button" id="mobile-menu-button" type="button" aria-label="Open navigation">
+            <span></span>
+            <span></span>
+          </button>
+        </div>
+      </header>
+
+      <nav class="mobile-nav" id="mobile-nav" aria-label="Mobile navigation">
+        <a href="#home" data-route="home">Home</a>
+        <a href="#videos" data-route="videos">Videos</a>
+        <a href="#clips" data-route="clips">Clips</a>
+        <a href="#music" data-route="music">Music</a>
+        <a href="#members" data-route="members">Members</a>
+        <a href="#awards" data-route="awards">Awards</a>
+      </nav>
+
+      <main>
+        <section class="page active" id="home-page" data-page="home">
+          <div class="hero">
+            <div class="hero-copy reveal">
+              <p class="eyebrow">Live creator network</p>
+              <img class="hero-logo" src="assets/logos/oscs-alt-original.png" alt="OSCS Central">
+              <p class="hero-text">A cinematic hub for streams, videos, clips, music, members, and community awards.</p>
+              <div class="hero-actions">
+                <a class="primary-action" href="#members">Explore members</a>
+                <a class="ghost-action" href="#clips">Watch clips</a>
+              </div>
+            </div>
+            <div class="hero-panel reveal">
+              <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80" alt="Gaming stage with purple lighting">
+              <div class="hero-panel-overlay">
+                <span class="live-dot"></span>
+                <strong>Live culture, one feed</strong>
+              </div>
+            </div>
+          </div>
+
+          <section class="stats-grid reveal" aria-label="Live stats">
+            <article class="stat-card">
+              <span>Local Time</span>
+              <strong id="stat-time">--:--</strong>
+            </article>
+            <article class="stat-card">
+              <span>Total Members</span>
+              <strong id="stat-members">9</strong>
+            </article>
+            <article class="stat-card">
+              <span>Members Live</span>
+              <strong id="stat-live">3</strong>
+            </article>
+            <article class="stat-card">
+              <span>Total Followers</span>
+              <strong id="stat-followers">2.8M</strong>
+            </article>
+            <article class="stat-card">
+              <span>Live Viewers</span>
+              <strong id="stat-viewers">48.2K</strong>
+            </article>
+          </section>
+
+          <section class="section-grid two-column">
+            <div class="content-block reveal">
+              <div class="section-heading">
+                <p class="eyebrow">Twitch API ready</p>
+                <h2>Live Now</h2>
+              </div>
+              <div class="stream-grid" id="live-now"></div>
+            </div>
+
+            <div class="content-block reveal">
+              <div class="section-heading">
+                <p class="eyebrow">YouTube API ready</p>
+                <h2>Newest Video</h2>
+              </div>
+              <div id="newest-video"></div>
+            </div>
+          </section>
+
+          <section class="content-block reveal">
+            <div class="section-heading">
+              <p class="eyebrow">Offline queue</p>
+              <h2>Members Offline</h2>
+            </div>
+            <div class="member-row" id="offline-members"></div>
+          </section>
+        </section>
+
+        <section class="page" id="videos-page" data-page="videos">
+          <div class="page-hero reveal">
+            <p class="eyebrow">YouTube</p>
+            <h1>Latest Uploads</h1>
+            <p>Newest videos, shorts, and creator updates in one fast feed.</p>
+          </div>
+          <div class="content-block reveal">
+            <div class="tabs" aria-label="Video sections">
+              <button class="tab active" data-video-tab="all">Latest Updates</button>
+              <button class="tab" data-video-tab="newest">Newest Video</button>
+              <button class="tab" data-video-tab="more">More Videos</button>
+              <button class="tab" data-video-tab="shorts">Shorts</button>
+            </div>
+            <div class="video-grid" id="video-grid"></div>
+          </div>
+        </section>
+
+        <section class="page" id="clips-page" data-page="clips">
+          <div class="page-hero reveal">
+            <p class="eyebrow">Twitch Clips</p>
+            <h1>Clip Vault</h1>
+            <p>Filter highlights by timeframe, member, and momentum.</p>
+          </div>
+          <div class="content-block reveal">
+            <div class="toolbar">
+              <div class="segmented" id="clip-range">
+                <button class="active" data-range="Day">Day</button>
+                <button data-range="Week">Week</button>
+                <button data-range="Month">Month</button>
+                <button data-range="Year">Year</button>
+                <button data-range="All Time">All Time</button>
+              </div>
+              <select id="clip-member" aria-label="Filter clips by member">
+                <option value="All">All members</option>
+              </select>
+              <select id="clip-sort" aria-label="Sort clips">
+                <option value="views">Most Viewed</option>
+                <option value="newest">Newest</option>
+              </select>
+            </div>
+            <div class="clip-grid" id="clip-grid"></div>
+          </div>
+        </section>
+
+        <section class="page" id="music-page" data-page="music">
+          <div class="page-hero reveal">
+            <p class="eyebrow">Spotify</p>
+            <h1>Member Music</h1>
+            <p>Artist pages, album art, previews, and embedded player slots.</p>
+          </div>
+          <div class="music-layout reveal">
+            <div class="player-card">
+              <img src="https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?auto=format&fit=crop&w=1000&q=80" alt="Music studio with performance lighting">
+              <div>
+                <p class="eyebrow">Now staged</p>
+                <h2>OSCS Rotation</h2>
+                <p>Spotify embeds can replace this preview card when API credentials are added.</p>
+              </div>
+            </div>
+            <div class="music-grid" id="music-grid"></div>
+          </div>
+        </section>
+
+        <section class="page" id="members-page" data-page="members">
+          <div class="page-hero reveal">
+            <p class="eyebrow">Roster</p>
+            <h1>OSCS Members</h1>
+            <p>Profiles, socials, business contacts, schedules, and latest content slots.</p>
+          </div>
+          <div class="member-grid reveal" id="member-grid"></div>
+        </section>
+
+        <section class="page" id="member-detail-page" data-page="member-detail">
+          <div id="member-detail"></div>
+        </section>
+
+        <section class="page" id="awards-page" data-page="awards">
+          <div class="page-hero reveal">
+            <p class="eyebrow">Community</p>
+            <h1>Awards</h1>
+            <p>Seasonal moments, creator milestones, fan votes, and community highlights.</p>
+          </div>
+          <div class="awards-grid reveal" id="awards-grid"></div>
+        </section>
+      </main>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
