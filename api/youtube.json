@@ -1,7 +1,15 @@
 {
   "source": "youtube-rss",
-  "generatedAt": "2026-06-04T17:31:37.297Z",
+  "generatedAt": "2026-06-04T20:12:55.324Z",
   "videos": [
+    {
+      "videoId": "kkxub_qiDuw",
+      "title": "OSCS HANDCUFFED SCAVENGER HUNT",
+      "channelTitle": "OSCS",
+      "publishedAt": "2026-06-04T17:25:51+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/kkxub_qiDuw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=kkxub_qiDuw"
+    },
     {
       "videoId": "l4eThFo33XU",
       "title": "Somebody in the car OSCS edition. Gone wrong. #oscs",
@@ -89,14 +97,6 @@
       "publishedAt": "2026-01-31T17:53:51+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/chlUaP6ASi0/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=chlUaP6ASi0"
-    },
-    {
-      "videoId": "ENZjinYRlK4",
-      "title": "Sunnys drawn by Yugi2x. Did he do good?",
-      "channelTitle": "OSCS",
-      "publishedAt": "2026-01-29T17:00:32+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/ENZjinYRlK4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ENZjinYRlK4"
     }
   ],
   "notes": []
