@@ -1,24 +1,10 @@
 {
   "source": "twitch",
-  "generatedAt": "2026-06-05T18:01:06.912Z",
+  "generatedAt": "2026-06-05T20:28:07.300Z",
   "totalMembers": 9,
-  "membersLive": 1,
-  "totalLiveViewers": 497,
+  "membersLive": 3,
+  "totalLiveViewers": 1823,
   "members": [
-    {
-      "id": "568329848",
-      "name": "sunnys",
-      "login": "sunnys",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/3403c016-925d-4310-adea-7e37de0a0b18-profile_image-300x300.png",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/94ebaa81-cec2-4819-bbb7-8a780fe8fec2-channel_offline_image-1920x1080.png",
-      "description": "sunny (slightly insane)",
-      "live": false,
-      "title": null,
-      "gameName": "Just Chatting",
-      "viewerCount": 0,
-      "thumbnailUrl": null,
-      "startedAt": null
-    },
     {
       "id": "573262056",
       "name": "YOUNGBASEDGO",
@@ -28,10 +14,24 @@
       "description": "youngbasedgo@epictalent.gg",
       "live": true,
       "title": "O' GLORIOUS DAY | DAY 45/365 | !wheel !comm !gerd",
-      "gameName": "Overwatch",
-      "viewerCount": 497,
+      "gameName": "Just Chatting",
+      "viewerCount": 354,
       "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_youngbasedgo-1280x720.jpg",
       "startedAt": "2026-06-05T15:06:05Z"
+    },
+    {
+      "id": "936171791",
+      "name": "Yugi2x",
+      "login": "yugi2x",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/d2f822ff-76a7-4e8b-b873-cf841acc2caa-profile_image-300x300.png",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/41a08dd0-0c5d-45f2-af52-e247a16f43e1-channel_offline_image-1920x1080.png",
+      "description": "Business inquiries - yugi@iso-ent.com",
+      "live": false,
+      "title": null,
+      "gameName": "Just Chatting",
+      "viewerCount": 0,
+      "thumbnailUrl": null,
+      "startedAt": null
     },
     {
       "id": "848271250",
@@ -54,12 +54,12 @@
       "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/987458ec-458e-46d2-a20d-bdf7ff50823c-profile_image-300x300.png",
       "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/66a414af-4a9d-432b-b1a7-27113d791f81-channel_offline_image-1920x1080.png",
       "description": "ttvjdab@gmail.com 4 business inquiries :D",
-      "live": false,
-      "title": null,
+      "live": true,
+      "title": "🟢BALESH🟢FINALS WATCHPARTY🟢JRK4L🟢 !newsong !oscs !discord !socials",
       "gameName": "Just Chatting",
-      "viewerCount": 0,
-      "thumbnailUrl": null,
-      "startedAt": null
+      "viewerCount": 479,
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_1jdab1-1280x720.jpg",
+      "startedAt": "2026-06-05T19:27:04Z"
     },
     {
       "id": "763706766",
@@ -76,12 +76,12 @@
       "startedAt": null
     },
     {
-      "id": "592893096",
-      "name": "bigmonraph",
-      "login": "bigmonraph",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3ef7e5d-ac59-4646-8882-4b23470c2a65-profile_image-300x300.png",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/f33438c5-f710-43bf-a272-eaf3cb4edcb1-channel_offline_image-1920x1080.png",
-      "description": "Business inquiries—&gt; bigmonraph@gmail.com",
+      "id": "568329848",
+      "name": "sunnys",
+      "login": "sunnys",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/3403c016-925d-4310-adea-7e37de0a0b18-profile_image-300x300.png",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/94ebaa81-cec2-4819-bbb7-8a780fe8fec2-channel_offline_image-1920x1080.png",
+      "description": "sunny (slightly insane)",
       "live": false,
       "title": null,
       "gameName": "Just Chatting",
@@ -118,18 +118,18 @@
       "startedAt": null
     },
     {
-      "id": "936171791",
-      "name": "Yugi2x",
-      "login": "yugi2x",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/d2f822ff-76a7-4e8b-b873-cf841acc2caa-profile_image-300x300.png",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/41a08dd0-0c5d-45f2-af52-e247a16f43e1-channel_offline_image-1920x1080.png",
-      "description": "Business inquiries - yugi@iso-ent.com",
-      "live": false,
-      "title": null,
+      "id": "592893096",
+      "name": "bigmonraph",
+      "login": "bigmonraph",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3ef7e5d-ac59-4646-8882-4b23470c2a65-profile_image-300x300.png",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/f33438c5-f710-43bf-a272-eaf3cb4edcb1-channel_offline_image-1920x1080.png",
+      "description": "Business inquiries—&gt; bigmonraph@gmail.com",
+      "live": true,
+      "title": "WHAT WE ON | JASON PRESS CONFRENCE LATER | !discord !comm !socials !oscs",
       "gameName": "Just Chatting",
-      "viewerCount": 0,
-      "thumbnailUrl": null,
-      "startedAt": null
+      "viewerCount": 990,
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bigmonraph-1280x720.jpg",
+      "startedAt": "2026-06-05T19:25:49Z"
     }
   ]
 }
