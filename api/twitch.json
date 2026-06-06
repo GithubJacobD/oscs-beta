@@ -1,10 +1,24 @@
 {
   "source": "twitch",
-  "generatedAt": "2026-06-06T04:05:56.495Z",
+  "generatedAt": "2026-06-06T07:33:57.727Z",
   "totalMembers": 9,
-  "membersLive": 4,
-  "totalLiveViewers": 8546,
+  "membersLive": 5,
+  "totalLiveViewers": 7977,
   "members": [
+    {
+      "id": "573262056",
+      "name": "YOUNGBASEDGO",
+      "login": "youngbasedgo",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/5655da67-5f71-4d6d-ba40-a5f3dc33db1b-profile_image-300x300.png",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb4c13d2-469e-4f90-a1c8-9140215f6ec3-channel_offline_image-1920x1080.png",
+      "description": "youngbasedgo@epictalent.gg",
+      "live": true,
+      "title": "O' GLORIOUS DAY | DAY 45/365 | !wheel !comm !gerd",
+      "gameName": "VALORANT",
+      "viewerCount": 169,
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_youngbasedgo-1280x720.jpg",
+      "startedAt": "2026-06-06T06:08:47Z"
+    },
     {
       "id": "100869214",
       "name": "Arky",
@@ -13,9 +27,9 @@
       "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7c527c2-9399-4d94-96ca-15365d8b8000-channel_offline_image-1920x1080.png",
       "description": "@Arky | Arkyszn | Business inquiries - arky@loaded.gg",
       "live": true,
-      "title": "🔶 NMS BOXING CONFERENCE 🔶 !oscs !comm !socials",
+      "title": "🔶 OSCS x YONNA 🔶 ARK DONT SINK 🔶!oscs !comm !socials",
       "gameName": "Just Chatting",
-      "viewerCount": 4041,
+      "viewerCount": 4585,
       "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arky-1280x720.jpg",
       "startedAt": "2026-06-06T02:31:29Z"
     },
@@ -27,9 +41,9 @@
       "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/41a08dd0-0c5d-45f2-af52-e247a16f43e1-channel_offline_image-1920x1080.png",
       "description": "Business inquiries - yugi@iso-ent.com",
       "live": true,
-      "title": "🌟WE BACK🌟Y2X ASSEMBLE🌟NMS BOXING CONFERENCE 🌟 !socials !comm !oscs",
+      "title": "🌟WE BACK🌟Y2X ASSEMBLE🌟OSCS X YONNA 🌟 !socials !comm !oscs",
       "gameName": "Just Chatting",
-      "viewerCount": 2940,
+      "viewerCount": 2617,
       "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yugi2x-1280x720.jpg",
       "startedAt": "2026-06-06T02:31:32Z"
     },
@@ -57,23 +71,9 @@
       "live": true,
       "title": "🔴 OSCS BALESH 🔴 WILL BE IN EVERYONES CORNER TMR🔴 !discord !socials !oscs 🔴",
       "gameName": "Just Chatting",
-      "viewerCount": 53,
+      "viewerCount": 66,
       "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redify-1280x720.jpg",
       "startedAt": "2026-06-06T02:40:08Z"
-    },
-    {
-      "id": "592893096",
-      "name": "bigmonraph",
-      "login": "bigmonraph",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3ef7e5d-ac59-4646-8882-4b23470c2a65-profile_image-300x300.png",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/f33438c5-f710-43bf-a272-eaf3cb4edcb1-channel_offline_image-1920x1080.png",
-      "description": "Business inquiries—&gt; bigmonraph@gmail.com",
-      "live": false,
-      "title": null,
-      "gameName": "Just Chatting",
-      "viewerCount": 0,
-      "thumbnailUrl": null,
-      "startedAt": null
     },
     {
       "id": "519084584",
@@ -82,12 +82,12 @@
       "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cf9511f-e459-4878-96dc-2bdf536c9630-profile_image-300x300.png",
       "offlineImage": "",
       "description": "1/9 OSCS| For business contact me at realsantibusiness@gmail.com",
-      "live": true,
-      "title": "it takes balesh days to build a habit !comm !socials !discord !oscs",
+      "live": false,
+      "title": null,
       "gameName": "Just Chatting",
-      "viewerCount": 1512,
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_santipulgaz-1280x720.jpg",
-      "startedAt": "2026-06-06T02:50:39Z"
+      "viewerCount": 0,
+      "thumbnailUrl": null,
+      "startedAt": null
     },
     {
       "id": "848271250",
@@ -104,12 +104,12 @@
       "startedAt": null
     },
     {
-      "id": "568329848",
-      "name": "sunnys",
-      "login": "sunnys",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/3403c016-925d-4310-adea-7e37de0a0b18-profile_image-300x300.png",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/94ebaa81-cec2-4819-bbb7-8a780fe8fec2-channel_offline_image-1920x1080.png",
-      "description": "sunny (slightly insane)",
+      "id": "592893096",
+      "name": "bigmonraph",
+      "login": "bigmonraph",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3ef7e5d-ac59-4646-8882-4b23470c2a65-profile_image-300x300.png",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/f33438c5-f710-43bf-a272-eaf3cb4edcb1-channel_offline_image-1920x1080.png",
+      "description": "Business inquiries—&gt; bigmonraph@gmail.com",
       "live": false,
       "title": null,
       "gameName": "Just Chatting",
@@ -118,18 +118,18 @@
       "startedAt": null
     },
     {
-      "id": "573262056",
-      "name": "YOUNGBASEDGO",
-      "login": "youngbasedgo",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/5655da67-5f71-4d6d-ba40-a5f3dc33db1b-profile_image-300x300.png",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb4c13d2-469e-4f90-a1c8-9140215f6ec3-channel_offline_image-1920x1080.png",
-      "description": "youngbasedgo@epictalent.gg",
-      "live": false,
-      "title": null,
-      "gameName": "Just Chatting",
-      "viewerCount": 0,
-      "thumbnailUrl": null,
-      "startedAt": null
+      "id": "568329848",
+      "name": "sunnys",
+      "login": "sunnys",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/3403c016-925d-4310-adea-7e37de0a0b18-profile_image-300x300.png",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/94ebaa81-cec2-4819-bbb7-8a780fe8fec2-channel_offline_image-1920x1080.png",
+      "description": "sunny (slightly insane)",
+      "live": true,
+      "title": "hi",
+      "gameName": "VALORANT",
+      "viewerCount": 540,
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunnys-1280x720.jpg",
+      "startedAt": "2026-06-06T05:58:27Z"
     }
   ]
 }
