@@ -1,10 +1,24 @@
 {
   "source": "twitch",
-  "generatedAt": "2026-06-13T00:24:50.823Z",
+  "generatedAt": "2026-06-13T05:06:42.562Z",
   "totalMembers": 9,
-  "membersLive": 3,
-  "totalLiveViewers": 5343,
+  "membersLive": 5,
+  "totalLiveViewers": 12188,
   "members": [
+    {
+      "id": "592893096",
+      "name": "bigmonraph",
+      "login": "bigmonraph",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3ef7e5d-ac59-4646-8882-4b23470c2a65-profile_image-300x300.png",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/f33438c5-f710-43bf-a272-eaf3cb4edcb1-channel_offline_image-1920x1080.png",
+      "description": "Business inquiries—&gt; bigmonraph@gmail.com",
+      "live": false,
+      "title": null,
+      "gameName": "Just Chatting",
+      "viewerCount": 0,
+      "thumbnailUrl": null,
+      "startedAt": null
+    },
     {
       "id": "568329848",
       "name": "sunnys",
@@ -12,12 +26,12 @@
       "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/3403c016-925d-4310-adea-7e37de0a0b18-profile_image-300x300.png",
       "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/94ebaa81-cec2-4819-bbb7-8a780fe8fec2-channel_offline_image-1920x1080.png",
       "description": "sunny (slightly insane)",
-      "live": true,
-      "title": "☀️ PLAYING IN @Cinna $150K MARVEL RIVALS TOURNEY ☀️ 20 MINS EXPERIENCE ☀️ LETS WIN ☀️  !socials",
-      "gameName": "Marvel Rivals",
-      "viewerCount": 723,
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunnys-1280x720.jpg",
-      "startedAt": "2026-06-12T21:29:45Z"
+      "live": false,
+      "title": null,
+      "gameName": "Just Chatting",
+      "viewerCount": 0,
+      "thumbnailUrl": null,
+      "startedAt": null
     },
     {
       "id": "519084584",
@@ -34,18 +48,18 @@
       "startedAt": null
     },
     {
-      "id": "573262056",
-      "name": "YOUNGBASEDGO",
-      "login": "youngbasedgo",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/5655da67-5f71-4d6d-ba40-a5f3dc33db1b-profile_image-300x300.png",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb4c13d2-469e-4f90-a1c8-9140215f6ec3-channel_offline_image-1920x1080.png",
-      "description": "youngbasedgo@epictalent.gg",
-      "live": false,
-      "title": null,
+      "id": "100869214",
+      "name": "Arky",
+      "login": "arky",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/1ed0e0c7-2714-41c3-9848-5eb1696db74a-profile_image-300x300.png",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7c527c2-9399-4d94-96ca-15365d8b8000-channel_offline_image-1920x1080.png",
+      "description": "@Arky | Arkyszn | Business inquiries - Arky@iso-ent.com",
+      "live": true,
+      "title": "🔶 CAMPING FOR STREAMER U APPLICATIONS 🔶 SUPER SENIOR 🔶 !oscs !comm !socials",
       "gameName": "Just Chatting",
-      "viewerCount": 0,
-      "thumbnailUrl": null,
-      "startedAt": null
+      "viewerCount": 3443,
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arky-1280x720.jpg",
+      "startedAt": "2026-06-12T19:38:00Z"
     },
     {
       "id": "848271250",
@@ -62,46 +76,18 @@
       "startedAt": null
     },
     {
-      "id": "763706766",
-      "name": "Redify",
-      "login": "redify",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/4bfa8235-06e3-4129-972a-f0e6cfe6ac5d-profile_image-300x300.png",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/a488df19-172e-42af-949c-cd3b21fdfa5d-channel_offline_image-1920x1080.png",
-      "description": "I get stuff done around here...",
-      "live": false,
-      "title": null,
-      "gameName": "Just Chatting",
-      "viewerCount": 0,
-      "thumbnailUrl": null,
-      "startedAt": null
-    },
-    {
-      "id": "592893096",
-      "name": "bigmonraph",
-      "login": "bigmonraph",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3ef7e5d-ac59-4646-8882-4b23470c2a65-profile_image-300x300.png",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/f33438c5-f710-43bf-a272-eaf3cb4edcb1-channel_offline_image-1920x1080.png",
-      "description": "Business inquiries—&gt; bigmonraph@gmail.com",
-      "live": false,
-      "title": null,
-      "gameName": "Just Chatting",
-      "viewerCount": 0,
-      "thumbnailUrl": null,
-      "startedAt": null
-    },
-    {
-      "id": "100869214",
-      "name": "Arky",
-      "login": "arky",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/1ed0e0c7-2714-41c3-9848-5eb1696db74a-profile_image-300x300.png",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7c527c2-9399-4d94-96ca-15365d8b8000-channel_offline_image-1920x1080.png",
-      "description": "@Arky | Arkyszn | Business inquiries - Arky@iso-ent.com",
+      "id": "573262056",
+      "name": "YOUNGBASEDGO",
+      "login": "youngbasedgo",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/5655da67-5f71-4d6d-ba40-a5f3dc33db1b-profile_image-300x300.png",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb4c13d2-469e-4f90-a1c8-9140215f6ec3-channel_offline_image-1920x1080.png",
+      "description": "youngbasedgo@epictalent.gg",
       "live": true,
-      "title": "🔶 BACK HOME 🔶 CINNA RIVALS TOURNEY 🔶 !oscs !comm !socials",
-      "gameName": "Just Chatting",
-      "viewerCount": 2303,
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arky-1280x720.jpg",
-      "startedAt": "2026-06-12T19:38:00Z"
+      "title": "we go all night | DAY 51/365 | !wheel !comm !gerd",
+      "gameName": "DARK SOULS III",
+      "viewerCount": 93,
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_youngbasedgo-1280x720.jpg",
+      "startedAt": "2026-06-13T02:36:35Z"
     },
     {
       "id": "936171791",
@@ -111,9 +97,9 @@
       "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/41a08dd0-0c5d-45f2-af52-e247a16f43e1-channel_offline_image-1920x1080.png",
       "description": "Business inquiries - yugi@iso-ent.com",
       "live": true,
-      "title": "🌟USA VS PARAGUAY WORLD CUP GAME W/ @jasontheween🌟 !socials !comm !oscs",
+      "title": "🌟POST USA VS PARAGUAY WORLD CUP GAME 🌟 !socials !comm !oscs",
       "gameName": "Just Chatting",
-      "viewerCount": 2317,
+      "viewerCount": 8427,
       "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yugi2x-1280x720.jpg",
       "startedAt": "2026-06-12T22:15:31Z"
     },
@@ -124,12 +110,26 @@
       "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/987458ec-458e-46d2-a20d-bdf7ff50823c-profile_image-300x300.png",
       "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/66a414af-4a9d-432b-b1a7-27113d791f81-channel_offline_image-1920x1080.png",
       "description": "ttvjdab@gmail.com 4 business inquiries :D",
-      "live": false,
-      "title": null,
+      "live": true,
+      "title": "🟢FUTURE SU STUDENT🟢MY DONOS WORK NOW🟢DONT BE MEAN🟢 !newsong !oscs !discord !socials",
       "gameName": "Just Chatting",
-      "viewerCount": 0,
-      "thumbnailUrl": null,
-      "startedAt": null
+      "viewerCount": 91,
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_1jdab1-1280x720.jpg",
+      "startedAt": "2026-06-13T04:35:16Z"
+    },
+    {
+      "id": "763706766",
+      "name": "Redify",
+      "login": "redify",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/4bfa8235-06e3-4129-972a-f0e6cfe6ac5d-profile_image-300x300.png",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/a488df19-172e-42af-949c-cd3b21fdfa5d-channel_offline_image-1920x1080.png",
+      "description": "I get stuff done around here...",
+      "live": true,
+      "title": "🔴CAMPING OVERNIGHT AT IRL STREAMER UNIVERISTY APPS🔴 !discord !socials !oscs 🔴",
+      "gameName": "Just Chatting",
+      "viewerCount": 134,
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redify-1280x720.jpg",
+      "startedAt": "2026-06-13T03:53:51Z"
     }
   ]
 }
