@@ -1,52 +1,10 @@
 {
   "source": "twitch",
-  "generatedAt": "2026-06-13T23:12:50.140Z",
+  "generatedAt": "2026-06-14T01:56:37.842Z",
   "totalMembers": 9,
-  "membersLive": 4,
-  "totalLiveViewers": 2571,
+  "membersLive": 6,
+  "totalLiveViewers": 8358,
   "members": [
-    {
-      "id": "573262056",
-      "name": "YOUNGBASEDGO",
-      "login": "youngbasedgo",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/5655da67-5f71-4d6d-ba40-a5f3dc33db1b-profile_image-300x300.png",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb4c13d2-469e-4f90-a1c8-9140215f6ec3-channel_offline_image-1920x1080.png",
-      "description": "youngbasedgo@epictalent.gg",
-      "live": true,
-      "title": "todays the DAY | DAY 53/365 | !wheel !comm !gerd",
-      "gameName": "Apex Legends",
-      "viewerCount": 176,
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_youngbasedgo-1280x720.jpg",
-      "startedAt": "2026-06-13T17:17:16Z"
-    },
-    {
-      "id": "848271250",
-      "name": "Nosiiree",
-      "login": "nosiiree",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/5f2cd9ae-4654-40dc-b92b-11d5758ad006-profile_image-300x300.png",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/6eeae784-4194-4703-bc0d-68dc9490c660-channel_offline_image-1920x1080.jpeg",
-      "description": "Come Vibe With A Real One 😲BUSINESS INQUIRES - nosiibusiness@gmail.com",
-      "live": true,
-      "title": "⭐ CAMPING AT STREAMER UNIVERSITY APPS  ⭐ FUTURE TOP STUDENT ⭐ 48 HOURS ⭐ !newsong !discord !comm !socials",
-      "gameName": "Just Chatting",
-      "viewerCount": 1022,
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nosiiree-1280x720.jpg",
-      "startedAt": "2026-06-13T05:11:52Z"
-    },
-    {
-      "id": "592893096",
-      "name": "bigmonraph",
-      "login": "bigmonraph",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3ef7e5d-ac59-4646-8882-4b23470c2a65-profile_image-300x300.png",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/f33438c5-f710-43bf-a272-eaf3cb4edcb1-channel_offline_image-1920x1080.png",
-      "description": "Business inquiries—&gt; bigmonraph@gmail.com",
-      "live": true,
-      "title": "📕STREAMER U CAMPOUT📕 TOP STUDENT 📕 SUPER DUPER SENIOR📕 !discord !comm !socials !oscs",
-      "gameName": "Just Chatting",
-      "viewerCount": 960,
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bigmonraph-1280x720.jpg",
-      "startedAt": "2026-06-13T05:13:21Z"
-    },
     {
       "id": "568329848",
       "name": "sunnys",
@@ -76,18 +34,74 @@
       "startedAt": null
     },
     {
+      "id": "848271250",
+      "name": "Nosiiree",
+      "login": "nosiiree",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/5f2cd9ae-4654-40dc-b92b-11d5758ad006-profile_image-300x300.png",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/6eeae784-4194-4703-bc0d-68dc9490c660-channel_offline_image-1920x1080.jpeg",
+      "description": "Come Vibe With A Real One 😲BUSINESS INQUIRES - nosiibusiness@gmail.com",
+      "live": true,
+      "title": "⭐ STREAMER UNIVERSITY APPS CAMP OUT ⭐ FUTURE TOP STUDENT ⭐ 48 HOURS ⭐ !newsong !discord !comm !socials",
+      "gameName": "Just Chatting",
+      "viewerCount": 608,
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nosiiree-1280x720.jpg",
+      "startedAt": "2026-06-13T05:11:52Z"
+    },
+    {
+      "id": "763706766",
+      "name": "Redify",
+      "login": "redify",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/4bfa8235-06e3-4129-972a-f0e6cfe6ac5d-profile_image-300x300.png",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/a488df19-172e-42af-949c-cd3b21fdfa5d-channel_offline_image-1920x1080.png",
+      "description": "I get stuff done around here...",
+      "live": true,
+      "title": "🔴CAMPING OVERNIGHT AT IRL STREAMER UNIVERISTY APPS🔴 !discord !socials !oscs 🔴",
+      "gameName": "Just Chatting",
+      "viewerCount": 340,
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redify-1280x720.jpg",
+      "startedAt": "2026-06-13T03:53:51Z"
+    },
+    {
+      "id": "592893096",
+      "name": "bigmonraph",
+      "login": "bigmonraph",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3ef7e5d-ac59-4646-8882-4b23470c2a65-profile_image-300x300.png",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/f33438c5-f710-43bf-a272-eaf3cb4edcb1-channel_offline_image-1920x1080.png",
+      "description": "Business inquiries—&gt; bigmonraph@gmail.com",
+      "live": true,
+      "title": "📕STREAMER U CAMPOUT📕 TOP STUDENT 📕 SUPER DUPER SENIOR📕 !discord !comm !socials !oscs",
+      "gameName": "Just Chatting",
+      "viewerCount": 546,
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bigmonraph-1280x720.jpg",
+      "startedAt": "2026-06-13T05:13:21Z"
+    },
+    {
+      "id": "573262056",
+      "name": "YOUNGBASEDGO",
+      "login": "youngbasedgo",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/5655da67-5f71-4d6d-ba40-a5f3dc33db1b-profile_image-300x300.png",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb4c13d2-469e-4f90-a1c8-9140215f6ec3-channel_offline_image-1920x1080.png",
+      "description": "youngbasedgo@epictalent.gg",
+      "live": true,
+      "title": "todays the DAY | DAY 53/365 | !wheel !comm !gerd",
+      "gameName": "Counter-Strike",
+      "viewerCount": 146,
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_youngbasedgo-1280x720.jpg",
+      "startedAt": "2026-06-13T17:17:16Z"
+    },
+    {
       "id": "100869214",
       "name": "Arky",
       "login": "arky",
       "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/1ed0e0c7-2714-41c3-9848-5eb1696db74a-profile_image-300x300.png",
       "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7c527c2-9399-4d94-96ca-15365d8b8000-channel_offline_image-1920x1080.png",
       "description": "@Arky | Arkyszn | Business inquiries - Arky@iso-ent.com",
-      "live": false,
-      "title": null,
+      "live": true,
+      "title": "🔶 STREAMER U AUDITIONS CAMP OUT 🔶 !oscs !comm !socials",
       "gameName": "Just Chatting",
-      "viewerCount": 0,
-      "thumbnailUrl": null,
-      "startedAt": null
+      "viewerCount": 5355,
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arky-1280x720.jpg",
+      "startedAt": "2026-06-14T01:08:30Z"
     },
     {
       "id": "936171791",
@@ -96,12 +110,12 @@
       "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/d2f822ff-76a7-4e8b-b873-cf841acc2caa-profile_image-300x300.png",
       "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/41a08dd0-0c5d-45f2-af52-e247a16f43e1-channel_offline_image-1920x1080.png",
       "description": "Business inquiries - yugi@iso-ent.com",
-      "live": false,
-      "title": null,
+      "live": true,
+      "title": "🌟 CAMPING OUT STREAMER UNIVERSITY🌟 !socials !comm !oscs",
       "gameName": "Just Chatting",
-      "viewerCount": 0,
-      "thumbnailUrl": null,
-      "startedAt": null
+      "viewerCount": 1363,
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yugi2x-1280x720.jpg",
+      "startedAt": "2026-06-14T01:47:47Z"
     },
     {
       "id": "819412039",
@@ -116,20 +130,6 @@
       "viewerCount": 0,
       "thumbnailUrl": null,
       "startedAt": null
-    },
-    {
-      "id": "763706766",
-      "name": "Redify",
-      "login": "redify",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/4bfa8235-06e3-4129-972a-f0e6cfe6ac5d-profile_image-300x300.png",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/a488df19-172e-42af-949c-cd3b21fdfa5d-channel_offline_image-1920x1080.png",
-      "description": "I get stuff done around here...",
-      "live": true,
-      "title": "🔴CAMPING OVERNIGHT AT IRL STREAMER UNIVERISTY APPS🔴 !discord !socials !oscs 🔴",
-      "gameName": "Just Chatting",
-      "viewerCount": 413,
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redify-1280x720.jpg",
-      "startedAt": "2026-06-13T03:53:51Z"
     }
   ]
 }
