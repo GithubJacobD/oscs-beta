@@ -1,38 +1,10 @@
 {
   "source": "twitch",
-  "generatedAt": "2026-06-17T23:58:40.220Z",
+  "generatedAt": "2026-06-18T04:55:40.837Z",
   "totalMembers": 9,
-  "membersLive": 5,
-  "totalLiveViewers": 8090,
+  "membersLive": 3,
+  "totalLiveViewers": 8370,
   "members": [
-    {
-      "id": "568329848",
-      "name": "sunnys",
-      "login": "sunnys",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/3403c016-925d-4310-adea-7e37de0a0b18-profile_image-300x300.png",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/94ebaa81-cec2-4819-bbb7-8a780fe8fec2-channel_offline_image-1920x1080.png",
-      "description": "sunny (slightly insane)",
-      "live": true,
-      "title": "☀️ KOREA ☀️ !socials !discord !oscs",
-      "gameName": "Just Chatting",
-      "viewerCount": 650,
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunnys-1280x720.jpg",
-      "startedAt": "2026-06-17T22:38:12Z"
-    },
-    {
-      "id": "519084584",
-      "name": "santipulgaz",
-      "login": "santipulgaz",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cf9511f-e459-4878-96dc-2bdf536c9630-profile_image-300x300.png",
-      "offlineImage": "",
-      "description": "1/9 OSCS| For business contact me at realsantibusiness@gmail.com",
-      "live": true,
-      "title": "🔴 IRL ATLANTA STREAMER U APPS 🔴 OSCS FOREVER 🔴 !comm !socials !discord !oscs",
-      "gameName": "Just Chatting",
-      "viewerCount": 1357,
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_santipulgaz-1280x720.jpg",
-      "startedAt": "2026-06-17T23:01:51Z"
-    },
     {
       "id": "573262056",
       "name": "YOUNGBASEDGO",
@@ -48,20 +20,6 @@
       "startedAt": null
     },
     {
-      "id": "100869214",
-      "name": "Arky",
-      "login": "arky",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/1ed0e0c7-2714-41c3-9848-5eb1696db74a-profile_image-300x300.png",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7c527c2-9399-4d94-96ca-15365d8b8000-channel_offline_image-1920x1080.png",
-      "description": "@Arky | Arkyszn | Business inquiries - Arky@iso-ent.com",
-      "live": true,
-      "title": "🔶 WE IN ATLANTA 🔶 24+ HOUR STREAM 🔶 !oscs !comm !socials",
-      "gameName": "Just Chatting",
-      "viewerCount": 2997,
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arky-1280x720.jpg",
-      "startedAt": "2026-06-16T22:15:39Z"
-    },
-    {
       "id": "936171791",
       "name": "Yugi2x",
       "login": "yugi2x",
@@ -69,9 +27,9 @@
       "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/41a08dd0-0c5d-45f2-af52-e247a16f43e1-channel_offline_image-1920x1080.png",
       "description": "Business inquiries - yugi@iso-ent.com",
       "live": true,
-      "title": "🌟WE ON A \"PJ\" WITH JASON🌟KNICKS PARADE TMRW🌟 !socials !comm !oscs",
+      "title": "🌟WE MADE IT TO NYC!!🌟KNICKS PARADE TMRW🌟 !socials !comm !oscs",
       "gameName": "Just Chatting",
-      "viewerCount": 2918,
+      "viewerCount": 5976,
       "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yugi2x-1280x720.jpg",
       "startedAt": "2026-06-17T15:55:28Z"
     },
@@ -82,12 +40,12 @@
       "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/5f2cd9ae-4654-40dc-b92b-11d5758ad006-profile_image-300x300.png",
       "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/6eeae784-4194-4703-bc0d-68dc9490c660-channel_offline_image-1920x1080.jpeg",
       "description": "Come Vibe With A Real One 😲BUSINESS INQUIRES - nosiibusiness@gmail.com",
-      "live": true,
-      "title": "⭐ WE IN ATLANTA ⭐ WAITING FOR STREAMER U  APPS ⭐️ !newsong !discord !comm !socials !su",
+      "live": false,
+      "title": null,
       "gameName": "Just Chatting",
-      "viewerCount": 168,
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nosiiree-1280x720.jpg",
-      "startedAt": "2026-06-17T18:00:43Z"
+      "viewerCount": 0,
+      "thumbnailUrl": null,
+      "startedAt": null
     },
     {
       "id": "819412039",
@@ -96,6 +54,34 @@
       "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/987458ec-458e-46d2-a20d-bdf7ff50823c-profile_image-300x300.png",
       "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/66a414af-4a9d-432b-b1a7-27113d791f81-channel_offline_image-1920x1080.png",
       "description": "ttvjdab@gmail.com 4 business inquiries :D",
+      "live": true,
+      "title": "🟢 WEDNESDAY🟢OSCS4L🟢I AM A GAMER🟢 !newsong !oscs !discord !socials",
+      "gameName": "Overwatch",
+      "viewerCount": 94,
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_1jdab1-1280x720.jpg",
+      "startedAt": "2026-06-18T02:16:13Z"
+    },
+    {
+      "id": "568329848",
+      "name": "sunnys",
+      "login": "sunnys",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/3403c016-925d-4310-adea-7e37de0a0b18-profile_image-300x300.png",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/94ebaa81-cec2-4819-bbb7-8a780fe8fec2-channel_offline_image-1920x1080.png",
+      "description": "sunny (slightly insane)",
+      "live": false,
+      "title": null,
+      "gameName": "Just Chatting",
+      "viewerCount": 0,
+      "thumbnailUrl": null,
+      "startedAt": null
+    },
+    {
+      "id": "100869214",
+      "name": "Arky",
+      "login": "arky",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/1ed0e0c7-2714-41c3-9848-5eb1696db74a-profile_image-300x300.png",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7c527c2-9399-4d94-96ca-15365d8b8000-channel_offline_image-1920x1080.png",
+      "description": "@Arky | Arkyszn | Business inquiries - Arky@iso-ent.com",
       "live": false,
       "title": null,
       "gameName": "Just Chatting",
@@ -130,6 +116,20 @@
       "viewerCount": 0,
       "thumbnailUrl": null,
       "startedAt": null
+    },
+    {
+      "id": "519084584",
+      "name": "santipulgaz",
+      "login": "santipulgaz",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cf9511f-e459-4878-96dc-2bdf536c9630-profile_image-300x300.png",
+      "offlineImage": "",
+      "description": "1/9 OSCS| For business contact me at realsantibusiness@gmail.com",
+      "live": true,
+      "title": "LATE NIGHT BALESH 🔴 UP UNTIL FLIGHT 🔴 OSCS THE TRUTH 🔴 !comm !socials !discord !oscs",
+      "gameName": "Just Chatting",
+      "viewerCount": 2300,
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_santipulgaz-1280x720.jpg",
+      "startedAt": "2026-06-17T23:01:51Z"
     }
   ]
 }
