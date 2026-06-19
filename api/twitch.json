@@ -1,10 +1,38 @@
 {
   "source": "twitch",
-  "generatedAt": "2026-06-19T20:52:50.634Z",
+  "generatedAt": "2026-06-19T22:10:02.495Z",
   "totalMembers": 9,
-  "membersLive": 1,
-  "totalLiveViewers": 524,
+  "membersLive": 2,
+  "totalLiveViewers": 377,
   "members": [
+    {
+      "id": "568329848",
+      "name": "sunnys",
+      "login": "sunnys",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/3403c016-925d-4310-adea-7e37de0a0b18-profile_image-300x300.png",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/94ebaa81-cec2-4819-bbb7-8a780fe8fec2-channel_offline_image-1920x1080.png",
+      "description": "sunny (slightly insane)",
+      "live": false,
+      "title": null,
+      "gameName": "Just Chatting",
+      "viewerCount": 0,
+      "thumbnailUrl": null,
+      "startedAt": null
+    },
+    {
+      "id": "573262056",
+      "name": "YOUNGBASEDGO",
+      "login": "youngbasedgo",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/5655da67-5f71-4d6d-ba40-a5f3dc33db1b-profile_image-300x300.png",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb4c13d2-469e-4f90-a1c8-9140215f6ec3-channel_offline_image-1920x1080.png",
+      "description": "youngbasedgo@epictalent.gg",
+      "live": true,
+      "title": "WHAT IS THAT MELODY? | DAY 57/365 | !wheel !comm !gerd",
+      "gameName": "DARK SOULS III",
+      "viewerCount": 377,
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_youngbasedgo-1280x720.jpg",
+      "startedAt": "2026-06-19T17:28:31Z"
+    },
     {
       "id": "100869214",
       "name": "Arky",
@@ -12,6 +40,20 @@
       "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/1ed0e0c7-2714-41c3-9848-5eb1696db74a-profile_image-300x300.png",
       "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7c527c2-9399-4d94-96ca-15365d8b8000-channel_offline_image-1920x1080.png",
       "description": "@Arky | Arkyszn | Business inquiries - Arky@iso-ent.com",
+      "live": false,
+      "title": null,
+      "gameName": "Just Chatting",
+      "viewerCount": 0,
+      "thumbnailUrl": null,
+      "startedAt": null
+    },
+    {
+      "id": "936171791",
+      "name": "Yugi2x",
+      "login": "yugi2x",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/d2f822ff-76a7-4e8b-b873-cf841acc2caa-profile_image-300x300.png",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/41a08dd0-0c5d-45f2-af52-e247a16f43e1-channel_offline_image-1920x1080.png",
+      "description": "Business inquiries - yugi@iso-ent.com",
       "live": false,
       "title": null,
       "gameName": "Just Chatting",
@@ -62,18 +104,18 @@
       "startedAt": null
     },
     {
-      "id": "936171791",
-      "name": "Yugi2x",
-      "login": "yugi2x",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/d2f822ff-76a7-4e8b-b873-cf841acc2caa-profile_image-300x300.png",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/41a08dd0-0c5d-45f2-af52-e247a16f43e1-channel_offline_image-1920x1080.png",
-      "description": "Business inquiries - yugi@iso-ent.com",
-      "live": false,
-      "title": null,
+      "id": "519084584",
+      "name": "santipulgaz",
+      "login": "santipulgaz",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cf9511f-e459-4878-96dc-2bdf536c9630-profile_image-300x300.png",
+      "offlineImage": "",
+      "description": "1/9 OSCS| For business contact me at realsantibusiness@gmail.com",
+      "live": true,
+      "title": "DAY WITH JOY MEI AND AISHA + ARKY !comm !socials !discord !oscs",
       "gameName": "Just Chatting",
       "viewerCount": 0,
-      "thumbnailUrl": null,
-      "startedAt": null
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_santipulgaz-1280x720.jpg",
+      "startedAt": "2026-06-19T22:09:38Z"
     },
     {
       "id": "592893096",
@@ -88,48 +130,6 @@
       "viewerCount": 0,
       "thumbnailUrl": null,
       "startedAt": null
-    },
-    {
-      "id": "568329848",
-      "name": "sunnys",
-      "login": "sunnys",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/3403c016-925d-4310-adea-7e37de0a0b18-profile_image-300x300.png",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/94ebaa81-cec2-4819-bbb7-8a780fe8fec2-channel_offline_image-1920x1080.png",
-      "description": "sunny (slightly insane)",
-      "live": false,
-      "title": null,
-      "gameName": "Just Chatting",
-      "viewerCount": 0,
-      "thumbnailUrl": null,
-      "startedAt": null
-    },
-    {
-      "id": "519084584",
-      "name": "santipulgaz",
-      "login": "santipulgaz",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cf9511f-e459-4878-96dc-2bdf536c9630-profile_image-300x300.png",
-      "offlineImage": "",
-      "description": "1/9 OSCS| For business contact me at realsantibusiness@gmail.com",
-      "live": false,
-      "title": null,
-      "gameName": "Just Chatting",
-      "viewerCount": 0,
-      "thumbnailUrl": null,
-      "startedAt": null
-    },
-    {
-      "id": "573262056",
-      "name": "YOUNGBASEDGO",
-      "login": "youngbasedgo",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/5655da67-5f71-4d6d-ba40-a5f3dc33db1b-profile_image-300x300.png",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb4c13d2-469e-4f90-a1c8-9140215f6ec3-channel_offline_image-1920x1080.png",
-      "description": "youngbasedgo@epictalent.gg",
-      "live": true,
-      "title": "WHAT IS THAT MELODY? | DAY 57/365 | !wheel !comm !gerd",
-      "gameName": "Overwatch",
-      "viewerCount": 524,
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_youngbasedgo-1280x720.jpg",
-      "startedAt": "2026-06-19T17:28:31Z"
     }
   ]
 }
