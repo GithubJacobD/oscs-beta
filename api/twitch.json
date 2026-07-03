@@ -1,10 +1,24 @@
 {
   "source": "twitch",
-  "generatedAt": "2026-07-03T04:27:05.765Z",
+  "generatedAt": "2026-07-03T07:47:49.895Z",
   "totalMembers": 9,
-  "membersLive": 5,
-  "totalLiveViewers": 6693,
+  "membersLive": 4,
+  "totalLiveViewers": 6500,
   "members": [
+    {
+      "id": "573262056",
+      "name": "YOUNGBASEDGO",
+      "login": "youngbasedgo",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/5655da67-5f71-4d6d-ba40-a5f3dc33db1b-profile_image-300x300.png",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb4c13d2-469e-4f90-a1c8-9140215f6ec3-channel_offline_image-1920x1080.png",
+      "description": "youngbasedgo@epictalent.gg",
+      "live": false,
+      "title": null,
+      "gameName": "ROBLOX",
+      "viewerCount": 0,
+      "thumbnailUrl": null,
+      "startedAt": null
+    },
     {
       "id": "100869214",
       "name": "Arky",
@@ -12,12 +26,12 @@
       "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/1ed0e0c7-2714-41c3-9848-5eb1696db74a-profile_image-300x300.png",
       "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7c527c2-9399-4d94-96ca-15365d8b8000-channel_offline_image-1920x1080.png",
       "description": "@Arky | Arkyszn | Business inquiries - Arky@iso-ent.com",
-      "live": true,
-      "title": "🔶 DESKTOP🔶 DM 100 CELEBRITIES 🔶 !comm !socials",
+      "live": false,
+      "title": null,
       "gameName": "Just Chatting",
-      "viewerCount": 1574,
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arky-1280x720.jpg",
-      "startedAt": "2026-07-03T02:27:56Z"
+      "viewerCount": 0,
+      "thumbnailUrl": null,
+      "startedAt": null
     },
     {
       "id": "936171791",
@@ -29,7 +43,7 @@
       "live": true,
       "title": "🌟 HAI HAI 🌟 !socials !comm !oscs",
       "gameName": "Just Chatting",
-      "viewerCount": 2518,
+      "viewerCount": 3511,
       "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yugi2x-1280x720.jpg",
       "startedAt": "2026-07-02T21:09:08Z"
     },
@@ -40,26 +54,12 @@
       "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/987458ec-458e-46d2-a20d-bdf7ff50823c-profile_image-300x300.png",
       "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/66a414af-4a9d-432b-b1a7-27113d791f81-channel_offline_image-1920x1080.png",
       "description": "ttvjdab@gmail.com 4 business inquiries :D",
-      "live": true,
-      "title": "🟢 BALESHING WITH CORE AND OSCS 🟢 !newsong !oscs !discord !socials",
+      "live": false,
+      "title": null,
       "gameName": "Just Chatting",
-      "viewerCount": 99,
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_1jdab1-1280x720.jpg",
-      "startedAt": "2026-07-02T21:45:08Z"
-    },
-    {
-      "id": "763706766",
-      "name": "Redify",
-      "login": "redify",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/4bfa8235-06e3-4129-972a-f0e6cfe6ac5d-profile_image-300x300.png",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/a488df19-172e-42af-949c-cd3b21fdfa5d-channel_offline_image-1920x1080.png",
-      "description": "I get stuff done around here...",
-      "live": true,
-      "title": "🔴AT THE CORE HOUSE🔴FORCE WIPE w/ @winnie LATER🔴LIVE ALL DAY🔴 !discord !socials !oscs 🔴",
-      "gameName": "Just Chatting",
-      "viewerCount": 476,
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redify-1280x720.jpg",
-      "startedAt": "2026-07-02T19:36:46Z"
+      "viewerCount": 0,
+      "thumbnailUrl": null,
+      "startedAt": null
     },
     {
       "id": "592893096",
@@ -76,20 +76,6 @@
       "startedAt": null
     },
     {
-      "id": "568329848",
-      "name": "sunnys",
-      "login": "sunnys",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/3403c016-925d-4310-adea-7e37de0a0b18-profile_image-300x300.png",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/94ebaa81-cec2-4819-bbb7-8a780fe8fec2-channel_offline_image-1920x1080.png",
-      "description": "sunny (slightly insane)",
-      "live": false,
-      "title": null,
-      "gameName": "Just Chatting",
-      "viewerCount": 0,
-      "thumbnailUrl": null,
-      "startedAt": null
-    },
-    {
       "id": "519084584",
       "name": "santipulgaz",
       "login": "santipulgaz",
@@ -97,9 +83,9 @@
       "offlineImage": "",
       "description": "1/9 OSCS| For business contact me at realsantibusiness@gmail.com",
       "live": true,
-      "title": "🔴 BALESH WITH OSCS & JASON 🔴 ANCESTRY TEST TOMORROW 🔴 !comm !socials !discord !oscs 🔴",
+      "title": "🔴 LATE NIGHT AT THE NEW CRIB 🔴 ANCESTRY TEST TOMORROW 🔴 !comm !socials !discord !oscs 🔴",
       "gameName": "Just Chatting",
-      "viewerCount": 2026,
+      "viewerCount": 1911,
       "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_santipulgaz-1280x720.jpg",
       "startedAt": "2026-07-02T23:51:42Z"
     },
@@ -118,18 +104,32 @@
       "startedAt": null
     },
     {
-      "id": "573262056",
-      "name": "YOUNGBASEDGO",
-      "login": "youngbasedgo",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/5655da67-5f71-4d6d-ba40-a5f3dc33db1b-profile_image-300x300.png",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb4c13d2-469e-4f90-a1c8-9140215f6ec3-channel_offline_image-1920x1080.png",
-      "description": "youngbasedgo@epictalent.gg",
-      "live": false,
-      "title": null,
-      "gameName": "ROBLOX",
-      "viewerCount": 0,
-      "thumbnailUrl": null,
-      "startedAt": null
+      "id": "763706766",
+      "name": "Redify",
+      "login": "redify",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/4bfa8235-06e3-4129-972a-f0e6cfe6ac5d-profile_image-300x300.png",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/a488df19-172e-42af-949c-cd3b21fdfa5d-channel_offline_image-1920x1080.png",
+      "description": "I get stuff done around here...",
+      "live": true,
+      "title": "🔴NEW OSCS HOUSE/NEW ROOM 🔴FORCE WIPE w/ @winnie 🔴LIVE ALL DAY🔴 !discord !socials !oscs 🔴",
+      "gameName": "Rust",
+      "viewerCount": 554,
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redify-1280x720.jpg",
+      "startedAt": "2026-07-02T19:36:46Z"
+    },
+    {
+      "id": "568329848",
+      "name": "sunnys",
+      "login": "sunnys",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/3403c016-925d-4310-adea-7e37de0a0b18-profile_image-300x300.png",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/94ebaa81-cec2-4819-bbb7-8a780fe8fec2-channel_offline_image-1920x1080.png",
+      "description": "sunny (slightly insane)",
+      "live": true,
+      "title": "☀️ LOTTE WORLD W/ HWAN ☀️ !socials !discord !oscs !cameraman",
+      "gameName": "Just Chatting",
+      "viewerCount": 524,
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunnys-1280x720.jpg",
+      "startedAt": "2026-07-03T06:42:12Z"
     }
   ]
 }
