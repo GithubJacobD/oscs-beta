@@ -1,9 +1,9 @@
 {
   "source": "twitch",
-  "generatedAt": "2026-07-07T20:26:33.523Z",
+  "generatedAt": "2026-07-07T21:55:43.096Z",
   "totalMembers": 9,
   "membersLive": 1,
-  "totalLiveViewers": 840,
+  "totalLiveViewers": 541,
   "members": [
     {
       "id": "100869214",
@@ -34,12 +34,12 @@
       "startedAt": null
     },
     {
-      "id": "568329848",
-      "name": "sunnys",
-      "login": "sunnys",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/3403c016-925d-4310-adea-7e37de0a0b18-profile_image-300x300.png",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/94ebaa81-cec2-4819-bbb7-8a780fe8fec2-channel_offline_image-1920x1080.png",
-      "description": "sunny (slightly insane)",
+      "id": "592893096",
+      "name": "bigmonraph",
+      "login": "bigmonraph",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3ef7e5d-ac59-4646-8882-4b23470c2a65-profile_image-300x300.png",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/f33438c5-f710-43bf-a272-eaf3cb4edcb1-channel_offline_image-1920x1080.png",
+      "description": "Business inquiries—&gt; bigmonraph@gmail.com",
       "live": false,
       "title": null,
       "gameName": "Just Chatting",
@@ -71,7 +71,7 @@
       "live": true,
       "title": "MY LIFE IS SUBLIME! | !wheel !comm !gerd",
       "gameName": "Just Chatting",
-      "viewerCount": 840,
+      "viewerCount": 541,
       "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_youngbasedgo-1280x720.jpg",
       "startedAt": "2026-07-07T18:49:43Z"
     },
@@ -118,12 +118,12 @@
       "startedAt": null
     },
     {
-      "id": "592893096",
-      "name": "bigmonraph",
-      "login": "bigmonraph",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3ef7e5d-ac59-4646-8882-4b23470c2a65-profile_image-300x300.png",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/f33438c5-f710-43bf-a272-eaf3cb4edcb1-channel_offline_image-1920x1080.png",
-      "description": "Business inquiries—&gt; bigmonraph@gmail.com",
+      "id": "568329848",
+      "name": "sunnys",
+      "login": "sunnys",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/3403c016-925d-4310-adea-7e37de0a0b18-profile_image-300x300.png",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/94ebaa81-cec2-4819-bbb7-8a780fe8fec2-channel_offline_image-1920x1080.png",
+      "description": "sunny (slightly insane)",
       "live": false,
       "title": null,
       "gameName": "Just Chatting",
