@@ -1,10 +1,24 @@
 {
   "source": "twitch",
-  "generatedAt": "2026-07-14T04:10:53.798Z",
+  "generatedAt": "2026-07-14T06:35:50.262Z",
   "totalMembers": 9,
-  "membersLive": 4,
-  "totalLiveViewers": 6028,
+  "membersLive": 5,
+  "totalLiveViewers": 6552,
   "members": [
+    {
+      "id": "568329848",
+      "name": "sunnys",
+      "login": "sunnys",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/3403c016-925d-4310-adea-7e37de0a0b18-profile_image-300x300.png",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/94ebaa81-cec2-4819-bbb7-8a780fe8fec2-channel_offline_image-1920x1080.png",
+      "description": "sunny (slightly insane)",
+      "live": true,
+      "title": "🇯🇵 OKINAWA DAY 2 🇯🇵 ZOO + BOTANICAL GARDEN 🇯🇵 CAPYBARAS !!!!!!!!! 🇯🇵 !socials",
+      "gameName": "Just Chatting",
+      "viewerCount": 322,
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunnys-1280x720.jpg",
+      "startedAt": "2026-07-14T06:27:08Z"
+    },
     {
       "id": "519084584",
       "name": "santipulgaz",
@@ -15,7 +29,7 @@
       "live": true,
       "title": "COOKING COLOMBIAN FOOD WITH THE LOVELY @maruxlee !comm !socials !discord !oscs",
       "gameName": "Just Chatting",
-      "viewerCount": 4743,
+      "viewerCount": 5039,
       "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_santipulgaz-1280x720.jpg",
       "startedAt": "2026-07-14T02:32:05Z"
     },
@@ -48,26 +62,12 @@
       "startedAt": null
     },
     {
-      "id": "848271250",
-      "name": "Nosiiree",
-      "login": "nosiiree",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/5f2cd9ae-4654-40dc-b92b-11d5758ad006-profile_image-300x300.png",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/6eeae784-4194-4703-bc0d-68dc9490c660-channel_offline_image-1920x1080.jpeg",
-      "description": "Come Vibe With A Real One 😲BUSINESS INQUIRES - nosiibusiness@gmail.com",
-      "live": true,
-      "title": "⭐ BACK FROM DREAMCON ⭐ REACTS + GAMING ⭐ !newsong !discord !comm !socials",
-      "gameName": "Just Chatting",
-      "viewerCount": 902,
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nosiiree-1280x720.jpg",
-      "startedAt": "2026-07-13T23:58:26Z"
-    },
-    {
-      "id": "592893096",
-      "name": "bigmonraph",
-      "login": "bigmonraph",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3ef7e5d-ac59-4646-8882-4b23470c2a65-profile_image-300x300.png",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/f33438c5-f710-43bf-a272-eaf3cb4edcb1-channel_offline_image-1920x1080.png",
-      "description": "Business inquiries—&gt; bigmonraph@gmail.com",
+      "id": "763706766",
+      "name": "Redify",
+      "login": "redify",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/4bfa8235-06e3-4129-972a-f0e6cfe6ac5d-profile_image-300x300.png",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/a488df19-172e-42af-949c-cd3b21fdfa5d-channel_offline_image-1920x1080.png",
+      "description": "I get stuff done around here...",
       "live": false,
       "title": null,
       "gameName": "Just Chatting",
@@ -76,12 +76,12 @@
       "startedAt": null
     },
     {
-      "id": "568329848",
-      "name": "sunnys",
-      "login": "sunnys",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/3403c016-925d-4310-adea-7e37de0a0b18-profile_image-300x300.png",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/94ebaa81-cec2-4819-bbb7-8a780fe8fec2-channel_offline_image-1920x1080.png",
-      "description": "sunny (slightly insane)",
+      "id": "592893096",
+      "name": "bigmonraph",
+      "login": "bigmonraph",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3ef7e5d-ac59-4646-8882-4b23470c2a65-profile_image-300x300.png",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/f33438c5-f710-43bf-a272-eaf3cb4edcb1-channel_offline_image-1920x1080.png",
+      "description": "Business inquiries—&gt; bigmonraph@gmail.com",
       "live": false,
       "title": null,
       "gameName": "Just Chatting",
@@ -99,9 +99,23 @@
       "live": true,
       "title": "MY LIFE IS SUBLIME! | !wheel !comm !gerd",
       "gameName": "VALORANT",
-      "viewerCount": 195,
+      "viewerCount": 327,
       "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_youngbasedgo-1280x720.jpg",
       "startedAt": "2026-07-13T17:48:18Z"
+    },
+    {
+      "id": "848271250",
+      "name": "Nosiiree",
+      "login": "nosiiree",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/5f2cd9ae-4654-40dc-b92b-11d5758ad006-profile_image-300x300.png",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/6eeae784-4194-4703-bc0d-68dc9490c660-channel_offline_image-1920x1080.jpeg",
+      "description": "Come Vibe With A Real One 😲BUSINESS INQUIRES - nosiibusiness@gmail.com",
+      "live": true,
+      "title": "͏⭐ BACK FROM DREAMCON ⭐ WE GAMING TONIGHT ⭐ !newsong !discord !comm !socials",
+      "gameName": "EA Sports FC 26",
+      "viewerCount": 689,
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nosiiree-1280x720.jpg",
+      "startedAt": "2026-07-13T23:58:26Z"
     },
     {
       "id": "819412039",
@@ -112,24 +126,10 @@
       "description": "ttvjdab@gmail.com 4 business inquiries :D",
       "live": true,
       "title": "🟢 THE RETURN OF NSRK 🟢24 Hour Stream 🟢 !newsong !oscs !discord !socials",
-      "gameName": "Just Chatting",
-      "viewerCount": 188,
+      "gameName": "EA Sports FC 26",
+      "viewerCount": 175,
       "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_1jdab1-1280x720.jpg",
       "startedAt": "2026-07-14T02:33:41Z"
-    },
-    {
-      "id": "763706766",
-      "name": "Redify",
-      "login": "redify",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/4bfa8235-06e3-4129-972a-f0e6cfe6ac5d-profile_image-300x300.png",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/a488df19-172e-42af-949c-cd3b21fdfa5d-channel_offline_image-1920x1080.png",
-      "description": "I get stuff done around here...",
-      "live": false,
-      "title": null,
-      "gameName": "Just Chatting",
-      "viewerCount": 0,
-      "thumbnailUrl": null,
-      "startedAt": null
     }
   ]
 }
