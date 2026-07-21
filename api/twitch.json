@@ -1,10 +1,24 @@
 {
   "source": "twitch",
-  "generatedAt": "2026-07-21T03:24:24.126Z",
+  "generatedAt": "2026-07-21T06:12:38.683Z",
   "totalMembers": 9,
-  "membersLive": 3,
-  "totalLiveViewers": 13536,
+  "membersLive": 4,
+  "totalLiveViewers": 12772,
   "members": [
+    {
+      "id": "592893096",
+      "name": "bigmonraph",
+      "login": "bigmonraph",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3ef7e5d-ac59-4646-8882-4b23470c2a65-profile_image-300x300.png",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/f33438c5-f710-43bf-a272-eaf3cb4edcb1-channel_offline_image-1920x1080.png",
+      "description": "Business inquiries—&gt; bigmonraph@gmail.com",
+      "live": false,
+      "title": null,
+      "gameName": "Just Chatting",
+      "viewerCount": 0,
+      "thumbnailUrl": null,
+      "startedAt": null
+    },
     {
       "id": "100869214",
       "name": "Arky",
@@ -15,7 +29,7 @@
       "live": true,
       "title": "🔶STREAMER U DEBRIEF🔶 !oscs !comm !socials",
       "gameName": "Just Chatting",
-      "viewerCount": 12444,
+      "viewerCount": 9643,
       "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arky-1280x720.jpg",
       "startedAt": "2026-07-21T02:11:05Z"
     },
@@ -34,34 +48,6 @@
       "startedAt": null
     },
     {
-      "id": "763706766",
-      "name": "Redify",
-      "login": "redify",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/4bfa8235-06e3-4129-972a-f0e6cfe6ac5d-profile_image-300x300.png",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/a488df19-172e-42af-949c-cd3b21fdfa5d-channel_offline_image-1920x1080.png",
-      "description": "I get stuff done around here...",
-      "live": true,
-      "title": "🔴LETS TALK🔴WIPE DAY RUN?🔴FC DAY RUN?🔴 !discord !socials !oscs 🔴",
-      "gameName": "Just Chatting",
-      "viewerCount": 569,
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redify-1280x720.jpg",
-      "startedAt": "2026-07-20T19:12:18Z"
-    },
-    {
-      "id": "519084584",
-      "name": "santipulgaz",
-      "login": "santipulgaz",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/d6483dff-bb0a-4d7f-97fd-c9af68ea54f2-profile_image-300x300.png",
-      "offlineImage": "",
-      "description": "1/9 OSCS| For business contact me at realsantibusiness@gmail.com",
-      "live": false,
-      "title": null,
-      "gameName": "Just Chatting",
-      "viewerCount": 0,
-      "thumbnailUrl": null,
-      "startedAt": null
-    },
-    {
       "id": "848271250",
       "name": "Nosiiree",
       "login": "nosiiree",
@@ -70,8 +56,8 @@
       "description": "Come Vibe With A Real One 😲BUSINESS INQUIRES - nosiibusiness@gmail.com",
       "live": true,
       "title": "⭐ NSR ARISE ⭐ REACTS + GAMING ⭐ !newsong !discord !comm !socials",
-      "gameName": "Just Chatting",
-      "viewerCount": 523,
+      "gameName": "Rocket League",
+      "viewerCount": 264,
       "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nosiiree-1280x720.jpg",
       "startedAt": "2026-07-20T23:07:26Z"
     },
@@ -82,20 +68,6 @@
       "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/ee0942ef-44c4-424a-b9f6-860562ec835c-profile_image-300x300.png",
       "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/66a414af-4a9d-432b-b1a7-27113d791f81-channel_offline_image-1920x1080.png",
       "description": "ttvjdab@gmail.com 4 business inquiries :D",
-      "live": false,
-      "title": null,
-      "gameName": "Just Chatting",
-      "viewerCount": 0,
-      "thumbnailUrl": null,
-      "startedAt": null
-    },
-    {
-      "id": "592893096",
-      "name": "bigmonraph",
-      "login": "bigmonraph",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3ef7e5d-ac59-4646-8882-4b23470c2a65-profile_image-300x300.png",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/f33438c5-f710-43bf-a272-eaf3cb4edcb1-channel_offline_image-1920x1080.png",
-      "description": "Business inquiries—&gt; bigmonraph@gmail.com",
       "live": false,
       "title": null,
       "gameName": "Just Chatting",
@@ -118,6 +90,20 @@
       "startedAt": null
     },
     {
+      "id": "519084584",
+      "name": "santipulgaz",
+      "login": "santipulgaz",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/d6483dff-bb0a-4d7f-97fd-c9af68ea54f2-profile_image-300x300.png",
+      "offlineImage": "",
+      "description": "1/9 OSCS| For business contact me at realsantibusiness@gmail.com",
+      "live": true,
+      "title": "late night balesh !comm !socials !discord !oscs",
+      "gameName": "Just Chatting",
+      "viewerCount": 2384,
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_santipulgaz-1280x720.jpg",
+      "startedAt": "2026-07-21T04:58:14Z"
+    },
+    {
       "id": "573262056",
       "name": "YOUNGBASEDGO",
       "login": "youngbasedgo",
@@ -130,6 +116,20 @@
       "viewerCount": 0,
       "thumbnailUrl": null,
       "startedAt": null
+    },
+    {
+      "id": "763706766",
+      "name": "Redify",
+      "login": "redify",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/4bfa8235-06e3-4129-972a-f0e6cfe6ac5d-profile_image-300x300.png",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/a488df19-172e-42af-949c-cd3b21fdfa5d-channel_offline_image-1920x1080.png",
+      "description": "I get stuff done around here...",
+      "live": true,
+      "title": "🔴LETS TALK🔴WIPE DAY RUN?🔴FC DAY RUN?🔴 !discord !socials !oscs 🔴",
+      "gameName": "Just Chatting",
+      "viewerCount": 481,
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redify-1280x720.jpg",
+      "startedAt": "2026-07-20T19:12:18Z"
     }
   ]
 }
