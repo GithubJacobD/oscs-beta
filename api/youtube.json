@@ -1,7 +1,15 @@
 {
   "source": "youtube-rss",
-  "generatedAt": "2026-07-21T12:56:43.497Z",
+  "generatedAt": "2026-07-21T15:10:37.745Z",
   "videos": [
+    {
+      "videoId": "xzl3KEQhrxQ",
+      "title": "OSCS EXTREME PAINTBALL HIDE AND SEEK",
+      "channelTitle": "OSCS",
+      "publishedAt": "2026-07-21T15:00:32+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/xzl3KEQhrxQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xzl3KEQhrxQ"
+    },
     {
       "videoId": "LGtbmx8FYBc",
       "title": "OUR NEW $10,000,000 OSCS HOUSE (Full Tour)",
@@ -89,14 +97,6 @@
       "publishedAt": "2026-02-10T21:19:11+00:00",
       "thumbnail": "https://i4.ytimg.com/vi/ktn4DkoZcGM/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ktn4DkoZcGM"
-    },
-    {
-      "videoId": "H4ipUniolHg",
-      "title": "OSCS - Momento (Official Music Video)",
-      "channelTitle": "OSCS",
-      "publishedAt": "2026-01-31T17:56:22+00:00",
-      "thumbnail": "https://i1.ytimg.com/vi/H4ipUniolHg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=H4ipUniolHg"
     }
   ],
   "notes": []
