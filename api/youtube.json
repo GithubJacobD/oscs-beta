@@ -1,7 +1,15 @@
 {
   "source": "youtube-rss",
-  "generatedAt": "2026-07-29T20:32:08.367Z",
+  "generatedAt": "2026-07-29T22:05:20.172Z",
   "videos": [
+    {
+      "videoId": "Iz9JoIBkEN0",
+      "title": "How Ludwig Accidentally Saved Our Group",
+      "channelTitle": "OSCS",
+      "publishedAt": "2026-07-29T20:35:37+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/Iz9JoIBkEN0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Iz9JoIBkEN0"
+    },
     {
       "videoId": "xzl3KEQhrxQ",
       "title": "OSCS EXTREME PAINTBALL HIDE AND SEEK",
@@ -89,14 +97,6 @@
       "publishedAt": "2026-02-14T19:45:28+00:00",
       "thumbnail": "https://i2.ytimg.com/vi/9bAK7WSHvPk/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=9bAK7WSHvPk"
-    },
-    {
-      "videoId": "ktn4DkoZcGM",
-      "title": "OSCS GENIUS INTERVIEW (Official Lyric Breakdown)",
-      "channelTitle": "OSCS",
-      "publishedAt": "2026-02-10T21:19:11+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/ktn4DkoZcGM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ktn4DkoZcGM"
     }
   ],
   "notes": []
