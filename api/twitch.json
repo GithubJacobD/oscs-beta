@@ -1,9 +1,9 @@
 {
   "source": "twitch",
-  "generatedAt": "2026-08-04T18:43:47.799Z",
+  "generatedAt": "2026-08-04T20:36:58.853Z",
   "totalMembers": 9,
-  "membersLive": 0,
-  "totalLiveViewers": 0,
+  "membersLive": 1,
+  "totalLiveViewers": 1668,
   "members": [
     {
       "id": "568329848",
@@ -34,15 +34,15 @@
       "startedAt": null
     },
     {
-      "id": "100869214",
-      "name": "Arky",
-      "login": "arky",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/1ed0e0c7-2714-41c3-9848-5eb1696db74a-profile_image-300x300.png",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7c527c2-9399-4d94-96ca-15365d8b8000-channel_offline_image-1920x1080.png",
-      "description": "@Arky | Arkyszn | Business inquiries - Arky@iso-ent.com",
+      "id": "573262056",
+      "name": "YOUNGBASEDGO",
+      "login": "youngbasedgo",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9b95f50-8c18-4d13-95a1-eb0ee4ef28a0-profile_image-300x300.png",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb4c13d2-469e-4f90-a1c8-9140215f6ec3-channel_offline_image-1920x1080.png",
+      "description": "",
       "live": false,
       "title": null,
-      "gameName": "Just Chatting",
+      "gameName": "EA Sports FC 26",
       "viewerCount": 0,
       "thumbnailUrl": null,
       "startedAt": null
@@ -90,12 +90,12 @@
       "startedAt": null
     },
     {
-      "id": "763706766",
-      "name": "Redify",
-      "login": "redify",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/4bfa8235-06e3-4129-972a-f0e6cfe6ac5d-profile_image-300x300.png",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/a488df19-172e-42af-949c-cd3b21fdfa5d-channel_offline_image-1920x1080.png",
-      "description": "I get stuff done around here...",
+      "id": "100869214",
+      "name": "Arky",
+      "login": "arky",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/1ed0e0c7-2714-41c3-9848-5eb1696db74a-profile_image-300x300.png",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7c527c2-9399-4d94-96ca-15365d8b8000-channel_offline_image-1920x1080.png",
+      "description": "@Arky | Arkyszn | Business inquiries - Arky@iso-ent.com",
       "live": false,
       "title": null,
       "gameName": "Just Chatting",
@@ -104,18 +104,18 @@
       "startedAt": null
     },
     {
-      "id": "573262056",
-      "name": "YOUNGBASEDGO",
-      "login": "youngbasedgo",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9b95f50-8c18-4d13-95a1-eb0ee4ef28a0-profile_image-300x300.png",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/eb4c13d2-469e-4f90-a1c8-9140215f6ec3-channel_offline_image-1920x1080.png",
-      "description": "",
-      "live": false,
-      "title": null,
-      "gameName": "EA Sports FC 26",
-      "viewerCount": 0,
-      "thumbnailUrl": null,
-      "startedAt": null
+      "id": "763706766",
+      "name": "Redify",
+      "login": "redify",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/4bfa8235-06e3-4129-972a-f0e6cfe6ac5d-profile_image-300x300.png",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/a488df19-172e-42af-949c-cd3b21fdfa5d-channel_offline_image-1920x1080.png",
+      "description": "I get stuff done around here...",
+      "live": true,
+      "title": "🔴YOURRAGE COBBLEVERSE SERVER🔴TEAM ROCKET🔴FIGHTING PEOPLE TODAY!!🔴 !discord !socials !oscs 🔴",
+      "gameName": "YRG Cobbleverse",
+      "viewerCount": 1668,
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redify-1280x720.jpg",
+      "startedAt": "2026-08-04T18:57:15Z"
     },
     {
       "id": "592893096",
